@@ -7,7 +7,7 @@ namespace ConsoleApp1
 		static void Main(string[] args)
 		{
 			////骄傲is活动贴U盘加热片WeFi
-			Console.WriteLine("Hello 张狗蛋!");
+			Console.WriteLine("Hello 第三都没撒 !");
 		}
 	}
 }
